@@ -1,0 +1,28 @@
+[14:50:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:50:15] [ServerMain/INFO]: Loaded 1461 recipes
+[14:50:15] [ServerMain/INFO]: Loaded 1574 advancements
+[14:50:15] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[14:50:15] [Server thread/INFO]: Loading properties
+[14:50:15] [Server thread/INFO]: Default game type: SURVIVAL
+[14:50:15] [Server thread/INFO]: Generating keypair
+[14:50:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:50:16] [Server thread/INFO]: Using epoll channel type
+[14:50:16] [Server thread/INFO]: Preparing level "world"
+[14:50:16] [Server thread/INFO]: Loading 0 persistent chunks...
+[14:50:16] [Server thread/INFO]: Preparing spawn area: 100%
+[14:50:16] [Server thread/INFO]: Time elapsed: 11 ms
+[14:50:16] [Server thread/INFO]: Done (0.380s)! For help, type "help"
+[14:51:02] [User Authenticator #1/INFO]: UUID of player ShirouFRG is 1bec71a4-221b-4122-801a-bd237f513773
+[14:51:03] [Server thread/INFO]: ShirouFRG[/127.210.63.233:56697] logged in with entity id 72 at (-1782.4570469920611, 104.0, -1307.0127544957393)
+[14:51:03] [Server thread/INFO]: ShirouFRG joined the game
+[14:56:07] [Server thread/INFO]: [ShirouFRG: Set own game mode to Creative Mode]
+[15:22:52] [Server thread/INFO]: [ShirouFRG: Set the time to 1000]
+[15:56:33] [Server thread/INFO]: ShirouFRG lost connection: Disconnected
+[15:56:33] [Server thread/INFO]: ShirouFRG left the game
+[15:57:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:13:03] [User Authenticator #2/INFO]: UUID of player ShirouFRG is 1bec71a4-221b-4122-801a-bd237f513773
+[21:13:04] [Server thread/INFO]: ShirouFRG[/127.210.63.233:56671] logged in with entity id 9178 at (-1787.9316165647165, 105.0, -1294.1984243980532)
+[21:13:04] [Server thread/INFO]: ShirouFRG joined the game
+[21:13:34] [Server thread/INFO]: ShirouFRG lost connection: Disconnected
+[21:13:34] [Server thread/INFO]: ShirouFRG left the game
+[21:14:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
